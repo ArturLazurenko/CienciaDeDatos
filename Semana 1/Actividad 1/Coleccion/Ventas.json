@@ -1,0 +1,12 @@
+{
+  "venta_id": "V001",
+  "cliente_id": "C001",
+  "fecha": "2026-03-19",
+  "productos": [
+    {
+      "producto_id": "P001",
+      "cantidad": 2
+    }
+  ],
+  "total": 2400
+}

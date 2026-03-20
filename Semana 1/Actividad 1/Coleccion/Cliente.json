@@ -1,0 +1,10 @@
+{
+  "cliente_id": "C001",
+  "nombre": "Juan Pérez",
+  "email": "juan@email.com",
+  "direccion": {
+    "ciudad": "Querétaro",
+    "estado": "QRO"
+  },
+  "historial_compras": ["O1001", "O1002"]
+}
