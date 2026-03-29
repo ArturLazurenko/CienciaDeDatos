@@ -1,0 +1,4 @@
+_id,nombre,materias[0],materias[1],edad
+69c9a786360727f8ceb1ca97,Ana,Math,Physics,20
+69c9a786360727f8ceb1ca98,Luis,Math,Chemistry,22
+69c9a786360727f8ceb1ca99,Sofia,Biology,,19
