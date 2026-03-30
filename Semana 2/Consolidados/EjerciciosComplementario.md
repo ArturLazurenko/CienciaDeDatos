@@ -222,7 +222,7 @@ ETL = Extract, Transform, Load
 
 ### Ejemplo:
 - Extraer datos de MongoDB
-- Limpiarlos con Python
+- Limpiarlos con Pythons
 - Guardarlos en SQL
 
 
