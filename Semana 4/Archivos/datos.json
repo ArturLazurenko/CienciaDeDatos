@@ -1,0 +1,49 @@
+{
+  "empresa": "TechSolutions Inc.",
+  "fundacion": 2010,
+  "activo": true,
+  "direccion": {
+    "calle": "Av. Tecnológica 123",
+    "ciudad": "Silicon Valley",
+    "pais": "Estados Unidos"
+  },
+  "departamentos": [
+    {
+      "nombre": "Desarrollo",
+      "empleados": 25,
+      "tecnologias": [
+        "Python",
+        "JavaScript",
+        "SQL"
+      ]
+    },
+    {
+      "nombre": "Marketing",
+      "empleados": 10,
+      "tecnologias": [
+        "Google Analytics",
+        "SEO"
+      ]
+    },
+    {
+      "nombre": "Ventas",
+      "empleados": 15,
+      "tecnologias": [
+        "CRM",
+        "Excel"
+      ]
+    }
+  ],
+  "proyectos_destacados": [
+    {
+      "nombre": "Sistema de Gestión",
+      "cliente": "Acme Corp",
+      "presupuesto": 50000
+    },
+    {
+      "nombre": "App Móvil",
+      "cliente": "StartUp X",
+      "presupuesto": 75000
+    }
+  ]
+}

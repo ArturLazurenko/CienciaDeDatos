@@ -1,0 +1,296 @@
+[
+  {
+    "precio": 50,
+    "gasto_publicidad": 200,
+    "visitantes": 1200,
+    "unidades_vendidas": 85
+  },
+  {
+    "precio": 55,
+    "gasto_publicidad": 250,
+    "visitantes": 1500,
+    "unidades_vendidas": 102
+  },
+  {
+    "precio": 45,
+    "gasto_publicidad": 180,
+    "visitantes": 900,
+    "unidades_vendidas": 62
+  },
+  {
+    "precio": 60,
+    "gasto_publicidad": 300,
+    "visitantes": 1800,
+    "unidades_vendidas": 118
+  },
+  {
+    "precio": 48,
+    "gasto_publicidad": 190,
+    "visitantes": 1100,
+    "unidades_vendidas": 78
+  },
+  {
+    "precio": 52,
+    "gasto_publicidad": 220,
+    "visitantes": 1300,
+    "unidades_vendidas": 91
+  },
+  {
+    "precio": 58,
+    "gasto_publicidad": 280,
+    "visitantes": 1700,
+    "unidades_vendidas": 110
+  },
+  {
+    "precio": 42,
+    "gasto_publicidad": 150,
+    "visitantes": 800,
+    "unidades_vendidas": 55
+  },
+  {
+    "precio": 65,
+    "gasto_publicidad": 350,
+    "visitantes": 2000,
+    "unidades_vendidas": 130
+  },
+  {
+    "precio": 47,
+    "gasto_publicidad": 175,
+    "visitantes": 1000,
+    "unidades_vendidas": 70
+  },
+  {
+    "precio": 53,
+    "gasto_publicidad": 230,
+    "visitantes": 1400,
+    "unidades_vendidas": 95
+  },
+  {
+    "precio": 44,
+    "gasto_publicidad": 165,
+    "visitantes": 850,
+    "unidades_vendidas": 58
+  },
+  {
+    "precio": 62,
+    "gasto_publicidad": 320,
+    "visitantes": 1900,
+    "unidades_vendidas": 125
+  },
+  {
+    "precio": 49,
+    "gasto_publicidad": 195,
+    "visitantes": 1150,
+    "unidades_vendidas": 80
+  },
+  {
+    "precio": 56,
+    "gasto_publicidad": 260,
+    "visitantes": 1600,
+    "unidades_vendidas": 105
+  },
+  {
+    "precio": 43,
+    "gasto_publicidad": 160,
+    "visitantes": 820,
+    "unidades_vendidas": 56
+  },
+  {
+    "precio": 59,
+    "gasto_publicidad": 290,
+    "visitantes": 1750,
+    "unidades_vendidas": 115
+  },
+  {
+    "precio": 46,
+    "gasto_publicidad": 170,
+    "visitantes": 950,
+    "unidades_vendidas": 66
+  },
+  {
+    "precio": 54,
+    "gasto_publicidad": 240,
+    "visitantes": 1450,
+    "unidades_vendidas": 98
+  },
+  {
+    "precio": 41,
+    "gasto_publicidad": 145,
+    "visitantes": 780,
+    "unidades_vendidas": 52
+  },
+  {
+    "precio": 66,
+    "gasto_publicidad": 360,
+    "visitantes": 2100,
+    "unidades_vendidas": 135
+  },
+  {
+    "precio": 51,
+    "gasto_publicidad": 210,
+    "visitantes": 1250,
+    "unidades_vendidas": 88
+  },
+  {
+    "precio": 57,
+    "gasto_publicidad": 270,
+    "visitantes": 1650,
+    "unidades_vendidas": 108
+  },
+  {
+    "precio": 45,
+    "gasto_publicidad": 185,
+    "visitantes": 920,
+    "unidades_vendidas": 64
+  },
+  {
+    "precio": 63,
+    "gasto_publicidad": 330,
+    "visitantes": 1950,
+    "unidades_vendidas": 128
+  },
+  {
+    "precio": 48,
+    "gasto_publicidad": 190,
+    "visitantes": 1080,
+    "unidades_vendidas": 75
+  },
+  {
+    "precio": 55,
+    "gasto_publicidad": 250,
+    "visitantes": 1520,
+    "unidades_vendidas": 100
+  },
+  {
+    "precio": 44,
+    "gasto_publicidad": 170,
+    "visitantes": 870,
+    "unidades_vendidas": 60
+  },
+  {
+    "precio": 61,
+    "gasto_publicidad": 310,
+    "visitantes": 1850,
+    "unidades_vendidas": 122
+  },
+  {
+    "precio": 47,
+    "gasto_publicidad": 180,
+    "visitantes": 1030,
+    "unidades_vendidas": 72
+  },
+  {
+    "precio": 53,
+    "gasto_publicidad": 235,
+    "visitantes": 1420,
+    "unidades_vendidas": 96
+  },
+  {
+    "precio": 42,
+    "gasto_publicidad": 155,
+    "visitantes": 810,
+    "unidades_vendidas": 54
+  },
+  {
+    "precio": 64,
+    "gasto_publicidad": 340,
+    "visitantes": 1980,
+    "unidades_vendidas": 132
+  },
+  {
+    "precio": 50,
+    "gasto_publicidad": 200,
+    "visitantes": 1180,
+    "unidades_vendidas": 82
+  },
+  {
+    "precio": 56,
+    "gasto_publicidad": 265,
+    "visitantes": 1580,
+    "unidades_vendidas": 104
+  },
+  {
+    "precio": 43,
+    "gasto_publicidad": 162,
+    "visitantes": 840,
+    "unidades_vendidas": 57
+  },
+  {
+    "precio": 60,
+    "gasto_publicidad": 300,
+    "visitantes": 1780,
+    "unidades_vendidas": 117
+  },
+  {
+    "precio": 46,
+    "gasto_publicidad": 175,
+    "visitantes": 970,
+    "unidades_vendidas": 68
+  },
+  {
+    "precio": 54,
+    "gasto_publicidad": 245,
+    "visitantes": 1480,
+    "unidades_vendidas": 99
+  },
+  {
+    "precio": 41,
+    "gasto_publicidad": 148,
+    "visitantes": 790,
+    "unidades_vendidas": 53
+  },
+  {
+    "precio": 67,
+    "gasto_publicidad": 370,
+    "visitantes": 2150,
+    "unidades_vendidas": 138
+  },
+  {
+    "precio": 52,
+    "gasto_publicidad": 215,
+    "visitantes": 1280,
+    "unidades_vendidas": 90
+  },
+  {
+    "precio": 58,
+    "gasto_publicidad": 285,
+    "visitantes": 1720,
+    "unidades_vendidas": 112
+  },
+  {
+    "precio": 45,
+    "gasto_publicidad": 182,
+    "visitantes": 910,
+    "unidades_vendidas": 63
+  },
+  {
+    "precio": 62,
+    "gasto_publicidad": 325,
+    "visitantes": 1920,
+    "unidades_vendidas": 126
+  },
+  {
+    "precio": 49,
+    "gasto_publicidad": 193,
+    "visitantes": 1120,
+    "unidades_vendidas": 77
+  },
+  {
+    "precio": 55,
+    "gasto_publicidad": 255,
+    "visitantes": 1540,
+    "unidades_vendidas": 101
+  },
+  {
+    "precio": 44,
+    "gasto_publicidad": 168,
+    "visitantes": 860,
+    "unidades_vendidas": 59
+  },
+  {
+    "precio": 63,
+    "gasto_publicidad": 335,
+    "visitantes": 1960,
+    "unidades_vendidas": 129
+  }
+]
